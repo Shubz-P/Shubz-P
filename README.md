@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shubz-P
 - 👀 I’m interested in Android Programming
 - 🌱 I’m currently learning Bachelors of Computer Applications
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Android App Development
 - 📫 How to reach me shubhampandhare2805@gmail.com
 
 <!---
